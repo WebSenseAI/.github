@@ -4,6 +4,7 @@ WebSenseAI is an intelligent chatbot designed for websites. By comprehensively a
 
 ## Figma
 [Component](https://www.figma.com/file/lcVNtwrCPLNhrL299BFSSS/WebSenseAI?type=design&node-id=0-1&mode=design&t=1ynVNgN3DZneiauu-0)
+<br/>
 [Site](https://www.figma.com/file/lcVNtwrCPLNhrL299BFSSS/WebSenseAI?type=design&node-id=50-15&mode=design&t=1ynVNgN3DZneiauu-0)
 
 ## Projects
